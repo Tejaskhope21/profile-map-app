@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "photo": "https://plus.unsplash.com/premium_photo-1689568126014-06fea9d5d341?fm=jpg&q=60&w=3000",
+    "description": "Software Engineer with a passion for maps.",
+    "address": "123 Main St, New York, NY 10001",
+    "lat": 40.7128,
+    "lng": -74.0060,
+    "contact": "john@example.com",
+    "interests": ["Coding", "Travel"]
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "photo": "https://media.istockphoto.com/id/1437816897/photo/business-woman-manager-or-human-resources-portrait-for-career-success-company-we-are-hiring.jpg?s=612x612&w=0&k=20&c=tyLvtzutRh22j9GqSGI33Z4HpIwv9vL_MZw_xOE19NQ=",
+    "description": "Data Scientist exploring geographic data.",
+    "address": "456 Oak Ave, San Francisco, CA 94102",
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "contact": "jane@example.com",
+    "interests": ["Data Analysis", "Hiking"]
+  },
+  {
+    "id": 3,
+    "name": "Carlos Mendoza",
+    "photo": "https://images.unsplash.com/photo-1603415526960-f7e0328c63b1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=60",
+    "description": "UX Designer focused on inclusive interfaces.",
+    "address": "789 Pine St, Austin, TX 73301",
+    "lat": 30.2672,
+    "lng": -97.7431,
+    "contact": "carlos@example.com",
+    "interests": ["Design", "Music"]
+  },
+  {
+    "id": 4,
+    "name": "Emily Zhang",
+    "photo": "https://images.unsplash.com/photo-1599566150163-29194dcaad36?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=60",
+    "description": "GIS Analyst and outdoor enthusiast.",
+    "address": "321 Birch Ln, Denver, CO 80202",
+    "lat": 39.7392,
+    "lng": -104.9903,
+    "contact": "emily@example.com",
+    "interests": ["Hiking", "Maps"]
+  },
+  {
+    "id": 5,
+    "name": "Ali Khan",
+    "photo": "https://images.unsplash.com/photo-1595152772835-219674b2a8a6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=60",
+    "description": "Full-stack developer and cloud architect.",
+    "address": "654 Maple Dr, Chicago, IL 60616",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "contact": "ali@example.com",
+    "interests": ["Programming", "Cloud"]
+  },
+  {
+    "id": 6,
+    "name": "Natalie Brown",
+    "photo": "https://images.unsplash.com/photo-1500917293891-ef795e70e1f6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=60",
+    "description": "Environmental scientist researching urban growth.",
+    "address": "88 Willow Way, Portland, OR 97201",
+    "lat": 45.5051,
+    "lng": -122.675,
+    "contact": "natalie@example.com",
+    "interests": ["Environment", "Reading"]
+  },
+  {
+    "id": 7,
+    "name": "Tomislav Petrovic",
+    "photo": "https://images.ctfassets.net/h6goo9gw1hh6/2sNZtFAWOdP1lmQ33VwRN3/24e953b920a9cd0ff2e1d587742a2472/1-intro-photo-final.jpg?w=1200&h=992&fl=progressive&q=70&fm=jpg",
+    "description": "Backend engineer working on scalable systems.",
+    "address": "199 King St, Seattle, WA 98104",
+    "lat": 47.6062,
+    "lng": -122.3321,
+    "contact": "tomislav@example.com",
+    "interests": ["Tech", "Chess"]
+  },
+  {
+    "id": 8,
+    "name": "Sophie Müller",
+    "photo": "https://images.unsplash.com/photo-1624561172888-ac93c696e10c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=60",
+    "description": "Frontend developer focused on accessibility.",
+    "address": "105 Main Blvd, Boston, MA 02118",
+    "lat": 42.3601,
+    "lng": -71.0589,
+    "contact": "sophie@example.com",
+    "interests": ["UX", "Photography"]
+  },
+  {
+    "id": 9,
+    "name": "Liam O'Connor",
+    "photo": "https://cdn2.f-cdn.com/files/download/42322552/f58f50.jpg",
+    "description": "Security analyst protecting cloud infrastructure.",
+    "address": "22 Liberty St, Philadelphia, PA 19103",
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "contact": "liam@example.com",
+    "interests": ["Security", "Gaming"]
+  },
+  {
+    "id": 10,
+    "name": "Priya Natarajan",
+    "photo": "https://images.unsplash.com/photo-1607746882042-944635dfe10e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=60",
+    "description": "AI researcher exploring language models.",
+    "address": "300 AI Rd, Palo Alto, CA 94301",
+    "lat": 37.4419,
+    "lng": -122.1430,
+    "contact": "priya@example.com",
+    "interests": ["AI", "Yoga"]
+  }
+]
